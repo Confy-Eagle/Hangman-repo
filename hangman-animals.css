@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+.hangman {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(78, 24, 24, 0.2);
+    width: 300px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+#word-display {
+    font-size: 20px;
+    margin: 20px 0;
+}
+
+#incorrect-guesses {
+    margin-top: 10px;
+}
+
+#guess-input {
+    margin-top: 20px;
+}
+
+#guess {
+    padding: 5px;
+    font-size: 16px;
+}
+
+#guess-button {
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
+
+#message {
+    font-size: 18px;
+    font-weight: bold;
+    color: green;
+}
