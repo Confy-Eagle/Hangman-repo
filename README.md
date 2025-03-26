@@ -1,3 +1,3 @@
 # Hangman game
 
-This is description of hangman animal game
+This is description of hangman animal game.
